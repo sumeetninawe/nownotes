@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element">
+    <sys_ux_custom_content_root_elem action="DELETE">
+        <active>false</active>
+        <applicability>single</applicability>
+        <applicable_page display_value="Notes">e407ce9107fe8010824cfea89c1ed081</applicable_page>
+        <attrs/>
+        <children/>
+        <component/>
+        <is_root>true</is_root>
+        <layout/>
+        <macroponent/>
+        <macroponent_config>{ }</macroponent_config>
+        <name>Topics</name>
+        <order>0</order>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <parent/>
+        <parent_slot/>
+        <picker/>
+        <picker_condition/>
+        <placeholder display_value="Landing Page Placeholder">0207c2d107fe8010824cfea89c1ed071</placeholder>
+        <slot/>
+        <sys_class_name>sys_ux_custom_content_root_elem</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 12:47:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>872122150732c010824cfea89c1ed047</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Topics</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Notes" source="x_451817_notes">52a5c61d07be8010824cfea89c1ed051</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes">52a5c61d07be8010824cfea89c1ed051</sys_scope>
+        <sys_update_name>sys_ux_custom_content_root_elem_872122150732c010824cfea89c1ed047</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 12:47:43</sys_updated_on>
+        <tree_root/>
+    </sys_ux_custom_content_root_elem>
+    <sys_variable_value action="DELETE" query="document_key=872122150732c010824cfea89c1ed047"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notes">52a5c61d07be8010824cfea89c1ed051</application>
+        <file_path/>
+        <instance_id>ed51b3f8db330fc0d75ff897bf961984</instance_id>
+        <instance_name>dev47836</instance_name>
+        <name>sys_ux_custom_content_root_elem_872122150732c010824cfea89c1ed047</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_element"><sys_ux_custom_content_root_elem action="INSERT_OR_UPDATE"><active>false</active><applicability>single</applicability><applicable_page display_value="Notes">e407ce9107fe8010824cfea89c1ed081</applicable_page><attrs/><children/><component/><is_root>true</is_root><layout/><macroponent/><macroponent_config>{ }</macroponent_config><name>Topics</name><order>0</order><page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page><parent/><parent_slot/><picker/><picker_condition/><placeholder display_value="Landing Page Placeholder">0207c2d107fe8010824cfea89c1ed071</placeholder><slot/><sys_class_name>sys_ux_custom_content_root_elem</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-02-05 12:47:43</sys_created_on><sys_domain>global</sys_domain><sys_id>872122150732c010824cfea89c1ed047</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Topics</sys_name><sys_overrides/><sys_package display_value="Notes" source="x_451817_notes">52a5c61d07be8010824cfea89c1ed051</sys_package><sys_policy/><sys_scope display_value="Notes">52a5c61d07be8010824cfea89c1ed051</sys_scope><sys_update_name>sys_ux_custom_content_root_elem_872122150732c010824cfea89c1ed047</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-02-05 12:47:43</sys_updated_on><tree_root/></sys_ux_custom_content_root_elem><sys_variable_value action="delete_multiple" query="document_key=872122150732c010824cfea89c1ed047"/></record_update>]]></payload>
+        <payload_hash>1847449173</payload_hash>
+        <record_name>Topics</record_name>
+        <reverted_from/>
+        <source>acd88e1507fe8010824cfea89c1ed083</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 12:51:50</sys_created_on>
+        <sys_id>6f122e150732c010824cfea89c1ed0db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170156820620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 12:51:50</sys_updated_on>
+        <type>UX Custom Content Extension</type>
+        <update_guid>0f21e2158b32c010b70da01e41b8d01a</update_guid>
+        <update_guid_history>0f21e2158b32c010b70da01e41b8d01a:-705498357,0f21e2158b32c010b70da01e41b8d01a:-705498357</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 12:51:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_custom_content_root_elem">sys_ux_custom_content_root_elem</sys_db_object>
+        <sys_id>4c1289cade6c42d59d69aa5669040c21</sys_id>
+        <sys_metadata>872122150732c010824cfea89c1ed047</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Topics</sys_name>
+        <sys_package display_value="Notes" source="x_451817_notes">52a5c61d07be8010824cfea89c1ed051</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notes">52a5c61d07be8010824cfea89c1ed051</sys_scope>
+        <sys_scope_delete display_value="">15b3c23d085946828941aa62c5384a24</sys_scope_delete>
+        <sys_update_name>sys_ux_custom_content_root_elem_872122150732c010824cfea89c1ed047</sys_update_name>
+        <sys_update_version display_value="sys_ux_custom_content_root_elem_872122150732c010824cfea89c1ed047">6f122e150732c010824cfea89c1ed0db</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 12:51:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

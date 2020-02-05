@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types/>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "ckggjjazztcaaaaaaccddbbhhlffccqbuvou",
+  "elementLabel" : "Container",
+  "propertyValues" : {
+    "label" : "Overview",
+    "type" : "default",
+    "bgvar" : "",
+    "border" : true,
+    "canCollapse" : false,
+    "collapsed" : false
+  },
+  "slot" : "ck69azztd0003317leg1jgjvh",
+  "definition" : {
+    "id" : "80653115e23949b501e719ae9b0b42a6",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : {
+    "composition" : [ {
+      "elementId" : "ckggjjbbbecciiaaaaaahhddbbhhlbccxddjggyhh",
+      "elementLabel" : "List",
+      "propertyValues" : {
+        "listTitle" : "All Active Tasks",
+        "table" : "x_451817_notes_notes",
+        "query" : null,
+        "columns" : "date,description,name,number",
+        "limit" : "10",
+        "maxColumns" : "5",
+        "page" : "1",
+        "hideHeader" : true,
+        "hideTitle" : true,
+        "hideTitleRowCount" : true,
+        "hideRefreshButton" : false,
+        "hideLastRefreshedText" : false,
+        "hideLinks" : false,
+        "hideViewAll" : false,
+        "hideHighlightedValues" : false,
+        "hideCellFilter" : true,
+        "hideCheckboxHover" : true,
+        "hideColumnFiltering" : true,
+        "hideColumnGrouping" : true,
+        "hideColumnSorting" : false,
+        "hideFilterPanel" : false,
+        "hideFirstPage" : false,
+        "hideLastPage" : false,
+        "hideLimitSelector" : false,
+        "hideMenuButton" : true,
+        "hideMultiEdit" : false,
+        "hideDeclarativeActions" : false,
+        "hideNextPage" : false,
+        "hidePages" : false,
+        "hidePagination" : true,
+        "hidePanel" : true,
+        "hidePanelAdvanced" : false,
+        "hidePanelConditionDelete" : false,
+        "hidePanelFooter" : false,
+        "hidePanelRestore" : false,
+        "hidePreviousPage" : false,
+        "hideQuickEdit" : true,
+        "hideRange" : false,
+        "hideRowCount" : false,
+        "hideRowSelector" : false,
+        "hideSelectAll" : true,
+        "hideEmptyStateImage" : false,
+        "hideDBViews" : false,
+        "hideUnnecessaryRowSelectors" : true
+      },
+      "slot" : "ck69b1e2a0008317ldobtimwo",
+      "definition" : {
+        "id" : "2b1c080881e05dc63b917044290b233f",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null
+    }, {
+      "elementId" : "ckggjjbhhgwbaaaaaagddbbhhlbhhbgxuphh",
+      "elementLabel" : "Rich Text",
+      "propertyValues" : {
+        "html" : "&lt;p&gt;Below are some of the latest notes for all topics. You may apply filters to see all notes related to a particular topic.&lt;/p&gt;"
+      },
+      "slot" : "ck69b7gwc000h317lnr8qsd51",
+      "definition" : {
+        "id" : "2d56f06d55f46bbd4e79b5e624beb940",
+        "type" : "MACROPONENT"
+      },
+      "overrides" : null
+    } ],
+    "layout" : {
+      "default" : {
+        "type" : "rowColumn",
+        "root" : {"type":"column","id":"ck69b1e2a0009317lkclxwnk0","rows":[{"id":"ck69b7gwc000i317lyjobhq83","slotName":"ck69b7gwc000h317lnr8qsd51","type":"row"},{"type":"row","id":"ck69b1e2a000a317l9tj7oww3","slotName":"ck69b1e2a0008317ldobtimwo"}],"size":"12"}
+      }
+    }
+  }
+} ]</composition>
+        <data/>
+        <events/>
+        <extends display_value="Landing Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <interactions/>
+        <layout>{
+  "default" : {
+    "type" : "rowColumn",
+    "root" : {"type":"row","columns":[{"type":"column","slotName":"ck69azztd0003317leg1jgjvh","size":"12","rows":[],"id":"ck69azztd0005317lf69aaves"}],"id":"ck69azztd0004317l0bhcck2j"}
+  }
+}</layout>
+        <macroponent_dependencies/>
+        <name>Home</name>
+        <props/>
+        <root_component/>
+        <root_component_config/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 12:43:52</sys_created_on>
+        <sys_id>32402ad10732c010824cfea89c1ed08b</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="Notes" source="x_451817_notes">52a5c61d07be8010824cfea89c1ed051</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes">52a5c61d07be8010824cfea89c1ed051</sys_scope>
+        <sys_update_name>sys_ux_macroponent_32402ad10732c010824cfea89c1ed08b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 12:50:49</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>
