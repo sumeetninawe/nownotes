@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <name>Topics</name>
+        <source_table>x_451817_notes_topics</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 10:53:27</sys_created_on>
+        <sys_id>d50782d107fe8010824cfea89c1ed0a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Topics</sys_name>
+        <sys_package display_value="Notes" source="x_451817_notes">52a5c61d07be8010824cfea89c1ed051</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes">52a5c61d07be8010824cfea89c1ed051</sys_scope>
+        <sys_update_name>sys_search_source_d50782d107fe8010824cfea89c1ed0a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 10:53:27</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=d50782d107fe8010824cfea89c1ed0a8"/>
+</record_update>

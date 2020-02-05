@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list_category">
+    <sys_aw_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_aw_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 10:53:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6d07c2d107fe8010824cfea89c1ed001</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notes</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Notes" source="x_451817_notes">52a5c61d07be8010824cfea89c1ed051</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes">52a5c61d07be8010824cfea89c1ed051</sys_scope>
+        <sys_update_name>sys_aw_list_category_6d07c2d107fe8010824cfea89c1ed001</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 10:53:28</sys_updated_on>
+        <title>Notes</title>
+        <workspace display_value="Notes">ec07ce9107fe8010824cfea89c1ed080</workspace>
+    </sys_aw_list_category>
+</record_update>

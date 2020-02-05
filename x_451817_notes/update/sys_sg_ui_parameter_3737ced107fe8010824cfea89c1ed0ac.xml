@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Notes)">6b37ced107fe8010824cfea89c1ed0ab</button>
+        <button_parent_table>x_451817_notes_notes</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>date</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Date</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 10:54:26</sys_created_on>
+        <sys_id>3737ced107fe8010824cfea89c1ed0ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Date</sys_name>
+        <sys_package display_value="Notes" source="x_451817_notes">52a5c61d07be8010824cfea89c1ed051</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes">52a5c61d07be8010824cfea89c1ed051</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_3737ced107fe8010824cfea89c1ed0ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 10:54:26</sys_updated_on>
+        <table_name>x_451817_notes_notes</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=3737ced107fe8010824cfea89c1ed0ac"/>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Simple Utility to take notes Topics</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Edit">a737ced107fe8010824cfea89c1ed093</icon>
+        <item_view/>
+        <name>Details</name>
+        <order/>
+        <parent/>
+        <parent_table/>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 10:54:26</sys_created_on>
+        <sys_id>bb37ced107fe8010824cfea89c1ed0bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="Notes" source="x_451817_notes">52a5c61d07be8010824cfea89c1ed051</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes">52a5c61d07be8010824cfea89c1ed051</sys_scope>
+        <sys_update_name>sys_sg_details_screen_bb37ced107fe8010824cfea89c1ed0bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 10:54:26</sys_updated_on>
+        <table>x_451817_notes_topics</table>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=bb37ced107fe8010824cfea89c1ed0bd"/>
+</record_update>

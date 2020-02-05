@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Notes">e407ce9107fe8010824cfea89c1ed081</compiled_page_registry>
+        <description>Simple Utility to take Notes</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Notes Search Context Config">a407ce9107fe8010824cfea89c1ed07f</global_search_data>
+        <name>Notes</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-05 10:53:24</sys_created_on>
+        <sys_id>ec07ce9107fe8010824cfea89c1ed080</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Notes</sys_name>
+        <sys_package display_value="Notes" source="x_451817_notes">52a5c61d07be8010824cfea89c1ed051</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes">52a5c61d07be8010824cfea89c1ed051</sys_scope>
+        <sys_update_name>sys_aw_master_config_ec07ce9107fe8010824cfea89c1ed080</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-05 10:53:24</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>notes</workspace_url>
+    </sys_aw_master_config>
+</record_update>
